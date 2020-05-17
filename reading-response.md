@@ -7,7 +7,7 @@ articles grabbed my interest, but I did want to take a moment here to discuss th
 
 The articles about this project, which we looked at this week, were very intriguing to me. 
 I've done some reading for librivox in the past and in general am very drawn to the notion of "copyleftism" and crowdsourced/opensource software.
-However, I do think these articles illutrated for me some of the discomforting things about crowdsourcing under capitalism.
+However, I do think these articles illutrated for me some of the discomforting things about crowdsourcing under capitalism / in conjuction with profit-oriented projects.
 
 I am thinking especially of the 2018 piece, "‘Making such bargain’: Transcribe
 Bentham and the quality and
