@@ -1,6 +1,6 @@
 # Exploitation or Collaboration? 
 
-I missed what i feel to be the appropriate window of time to respond to the question brought up on discord about which 
+I missed what the appropriate window of time to respond to a question brought up on discord about which 
 articles grabbed my interest, but I did want to take a moment here to discuss them! 
 
 ### The Transcribe Bentham Project
