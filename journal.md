@@ -23,6 +23,9 @@ xcode-select: error: invalid developer directory '/Library/Developer/CommandLine
 Failed during: /usr/bin/sudo /usr/bin/xcode-select --switch /Library/Developer/CommandLineTools
 ``` 
 
+I went to [this](https://treehouse.github.io/installation-guides/mac/homebrew) website, which told me to 
+download "Xcode" from the apple app store
+
 APIs
 
 OCR
