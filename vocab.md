@@ -5,3 +5,4 @@ command line = "an interface for typing commands directly to a computer's operat
 - encountered this in relation to anaconda, both as an option for a type of installer and when the prof said "we’ll mostly use python at the command line." 
 - for me, this means using something called the "terminal" (on my laptop, applications -> other -> terminal)
 
+terminal prompt (signified with $ in code examples) = the window wherein I can enter code into the command line
