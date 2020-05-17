@@ -1,7 +1,7 @@
 # Collaboration or Exploitation? 
 
-I missed what the appropriate window of time to respond to a question brought up on discord about which 
-articles grabbed my interest, but I did want to take a moment here to discuss them! 
+I missed the appropriate window of time to respond to a question brought up on discord about which 
+articles grabbed my interest, but I did want to take a moment here to discuss them! So I did so here: 
 
 ### The Transcribe Bentham Project
 
