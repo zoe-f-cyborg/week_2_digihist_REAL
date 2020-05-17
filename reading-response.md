@@ -1,4 +1,4 @@
-# Exploitation or Collaboration? 
+# Collaboration or Exploitation? 
 
 I missed what the appropriate window of time to respond to a question brought up on discord about which 
 articles grabbed my interest, but I did want to take a moment here to discuss them! 
@@ -16,7 +16,9 @@ transcription." Becuase Causer & co. were writing from an academic perspective, 
 of crowdsourcing, I was struck with the sense that it's kind of impossible for the work to not be at all exploitative.
 Yes, the volunteers may enjoy it, and yes, it may all be for an ultimately good cause, but I worry about how thinking of 
 these projects in terms of economic viability might result in a more exploitative atmsophere in the digital humanities. 
-After all, "never pay for work somebody will do for free," to paraphrase Carole Baskin. 
+After all, "never pay for work somebody will do for free," to paraphrase Carole Baskin. There is inevitably a profit motive 
+involved in this work-- it is for the purpose of compiling and publishing a book which people will be paid to edit, market, 
+and print. 
 
 Obviously I know very little about this in practice, and very little about what the field actually looks like, 
 but it seems to me that if free labour becomes assumed or expected by researchers in this field, that might not be a good thing 
