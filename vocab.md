@@ -10,3 +10,5 @@ terminal prompt (signified with $ in code examples) = the window(?) in which I e
 homebrew = "a ‘package manager’, or a utility that retrieves software from a single, ‘official’ (as it were) source."
 
 - I understand almsot none of these words but will perservere
+
+Application Programming Interface / API 
