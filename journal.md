@@ -13,13 +13,15 @@ It did take me a shamefully long time to figure out how to access the command li
 
 - the ask for a passwrod to install homebrew briefly had me stumped, until I realized it was the password for my laptop itself (not somehtign specific to python).
 - I got this message after my first attempt at installing: 
-```Error downloading Command Line Tools for Xcode: The operation couldn’t be completed. (PKDownloadError error 8.)
+``` 
+Error downloading Command Line Tools for Xcode: The operation couldn’t be completed. (PKDownloadError error 8.)
 Done.
 Error downloading updates.
 ==> /usr/bin/sudo /bin/rm -f /tmp/.com.apple.dt.CommandLineTools.installondemand.in-progress
 ==> /usr/bin/sudo /usr/bin/xcode-select --switch /Library/Developer/CommandLineTools
 xcode-select: error: invalid developer directory '/Library/Developer/CommandLineTools'
 Failed during: /usr/bin/sudo /usr/bin/xcode-select --switch /Library/Developer/CommandLineTools
+``` 
 
 APIs
 
