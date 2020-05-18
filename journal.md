@@ -24,7 +24,7 @@ Failed during: /usr/bin/sudo /usr/bin/xcode-select --switch /Library/Developer/C
 ``` 
 
 I went to [this](https://treehouse.github.io/installation-guides/mac/homebrew) website, which told me to 
-download "Xcode" from the apple app store
+download "Xcode" from the apple app store. I did, and then the homebrew installation worked. 
 
 APIs
 
