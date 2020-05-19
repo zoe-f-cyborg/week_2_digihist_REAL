@@ -1,4 +1,4 @@
-[Intro]
+This week definitely gave me more trouble than previously. I felt pretty overshelmed by Wget and couldn't see the point of it yet, so it made it slow going to get me motivated to work on it. 
 
 ### Anaconda 
 
