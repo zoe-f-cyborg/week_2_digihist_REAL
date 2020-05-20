@@ -11,4 +11,8 @@ homebrew = "a ‘package manager’, or a utility that retrieves software from a
 
 - I understand almsot none of these words but will perservere
 
-Application Programming Interface / API 
+Application Programming Interface / API = essentially the "command line" for machines, an interface for communication between programs using a type of program language that is not as human-accessible, i.e. "Json" 
+
+- URLs use this
+
+OCR = Object Character Recognition, a program that attempts to detect letters in image files by recognising light and dark pixels. Often misslabels letters and numbers. 
