@@ -22,3 +22,8 @@ These are all the commands for using wget that seem relevant to me, organized in
 
 ### `wget -i urls.txt -r --no-parent -nd -w 2 --limit-rate=100k`
 - collects all of the urls listed in a text file called "urls.txt," which can be swapped out for any file name (just make sure it has ONLY urls in it)
+
+### `ls`
+- lists all the items in whatever directory you are in
+- a good way of checking in `mkdir [file name]` or `python [file].py` (which enacts a [pre-existing] `[file].py` code) has worked (generated `[file].txt`) 
+
