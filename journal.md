@@ -42,4 +42,4 @@ OCR
 
 I tried launching it several times and nothing happened. I looked more closely at the image on the instructions page and saw it was using a different version (1.456) form the one it automatically chose when I installed anaconda. After downloading the correct version, I attempted to run the code provided, and got this error: 
 
-![screenshot](Screen Shot 2020-05-21 at 3.12.16 PM.png) 
+![screenshot](Screen Shot 2020-05-21 at 3.12.16 PM.png)
