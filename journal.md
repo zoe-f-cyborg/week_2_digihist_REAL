@@ -34,12 +34,16 @@ I hadn't intalled this yet so I felt quite lost, since there was nothing on the 
 
 UPDATE: So I asked on discord about where my problem might be, since sublime seems unavoidable, and they really helped me figure out what I was doing (shoutout to cochantal)! I realize now that sublime doesn't need to be linked up to any other application, it's just a basic sort of tool, and all you do to make it a python file is save it as .py and invoke it with "python" in the command line. My real problem was not understanding how to navigate the directories properly, and being generally unfamiliar with coding language. 
 
-APIs
+### APIs -- Json
 
 Once I had a better grasp of how to use the terminal and sublime text, this task was much easier. I was able to make the file and save it as a table and open it in "numbers," as well as save it as a permalink [here](https://json-csv.com/c/Yte9). 
 
-OCR
+### OCRs -- R Script 
 
 I tried launching it several times and nothing happened. I looked more closely at the image on the instructions page and saw it was using a different version (1.456) form the one it automatically chose when I installed anaconda. After downloading the correct version, I attempted to run the code provided, and got this error: 
 
 ![screenshot](screenshot-r-script-error.png)
+
+I attempted to install them again, this time clicking "run" on each line of code individually, and they both seemed to download succesfully to my computer, at `/private/var/folders/y2/hd0gg89545g6s8k2g0cq03x80000gn/T/Rtmp4hAD8H/downloaded_packages`. 
+
+UPDATE: Not succesful, no sir-y. I asked for help in Discord and eventually just dowloaded R-studio independent of anaconda. I will probably have to delete the other version as my computer's storage has been filling up. Once I re-opened the r-script I had already started, there was a small yellow banner saying `packages, magick, magrittr, and tesseract required but are not installed. [Install] [Don't Show Again]`. I was tempted to click but slightly afraid I would screw something up, so just clicked "run" again. 
