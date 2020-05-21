@@ -48,6 +48,8 @@ And this for magick:
 
 ![screenshot](error3.png) 
 
-I attempted to install them again, this time clicking "run" on each line of code individually, and they both seemed to download succesfully to my computer, at `/private/var/folders/y2/hd0gg89545g6s8k2g0cq03x80000gn/T/Rtmp4hAD8H/downloaded_packages`. 
+I asked for help in Discord and eventually just dowloaded R-studio independent of anaconda. (I will probably have to delete the other version as my computer's storage has been filling up.) Once I re-opened the r-script I had already started, there was a small yellow banner saying `packages, magick, magrittr, and tesseract required but are not installed. Install Don't Show Again`. I was tempted to click but slightly afraid I would screw something up, so just clicked "run" again. 
 
-UPDATE: Not succesful, no sir-y. I asked for help in Discord and eventually just dowloaded R-studio independent of anaconda. I will probably have to delete the other version as my computer's storage has been filling up. Once I re-opened the r-script I had already started, there was a small yellow banner saying `packages, magick, magrittr, and tesseract required but are not installed. Install Don't Show Again`. I was tempted to click but slightly afraid I would screw something up, so just clicked "run" again. 
+The code ran, and I was able to OCR the file!
+
+![success](ocr-success.png) 
