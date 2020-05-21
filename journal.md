@@ -52,4 +52,4 @@ I asked for help in Discord and eventually just dowloaded R-studio independent o
 
 The code ran, and I was able to OCR the file!
 
-![success](ocr-success.png) 
+![success](ocr-success.png)
