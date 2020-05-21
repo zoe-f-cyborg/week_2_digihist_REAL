@@ -1,1 +1,1 @@
-ummmmmmmmmmm
+This week's notes live in [vocab](https://github.com/zoe-f-cyborg/week_2_digihist_REAL/blob/master/vocab.md) and [wget cheat sheet](https://github.com/zoe-f-cyborg/week_2_digihist_REAL/blob/master/wget-cheatsheet.md) 
