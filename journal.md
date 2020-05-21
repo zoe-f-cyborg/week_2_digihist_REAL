@@ -40,9 +40,13 @@ Once I had a better grasp of how to use the terminal and sublime text, this task
 
 ### OCRs -- R Script 
 
-I tried launching it several times and nothing happened. I looked more closely at the image on the instructions page and saw it was using a different version (1.456) form the one it automatically chose when I installed anaconda. After downloading the correct version, I attempted to run the code provided, and got this error: 
+I tried launching it several times and nothing happened. I looked more closely at the image on the instructions page and saw it was using a different version (1.456) form the one it automatically chose when I installed anaconda. After downloading the correct version, I attempted to run the code provided, I got a long error including this messgae for tesseract: 
 
-![screenshot](Screen%20Shot%202020-05-21%20at%203.24.56 PM.png.png)
+![screenshot](error2.png)
+
+And this for magick:
+
+![screenshot](error3.png) 
 
 I attempted to install them again, this time clicking "run" on each line of code individually, and they both seemed to download succesfully to my computer, at `/private/var/folders/y2/hd0gg89545g6s8k2g0cq03x80000gn/T/Rtmp4hAD8H/downloaded_packages`. 
 
